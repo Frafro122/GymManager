@@ -1,0 +1,461 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\GymManager.UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GymManager.UI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\images\\Przelewy24_logo.png",
+      "PackagePath": "staticwebassets\\images\\Przelewy24_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\images\\card-crossfit.png",
+      "PackagePath": "staticwebassets\\images\\card-crossfit.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\images\\card-fitness.png",
+      "PackagePath": "staticwebassets\\images\\card-fitness.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\images\\card-gym.png",
+      "PackagePath": "staticwebassets\\images\\card-gym.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\images\\card-massage.png",
+      "PackagePath": "staticwebassets\\images\\card-massage.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\images\\card-pool.png",
+      "PackagePath": "staticwebassets\\images\\card-pool.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\images\\card-trainer.png",
+      "PackagePath": "staticwebassets\\images\\card-trainer.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\images\\carousel-interval.png",
+      "PackagePath": "staticwebassets\\images\\carousel-interval.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\images\\carousel-personal.png",
+      "PackagePath": "staticwebassets\\images\\carousel-personal.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\images\\carousel-strength.png",
+      "PackagePath": "staticwebassets\\images\\carousel-strength.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\images\\en.png",
+      "PackagePath": "staticwebassets\\images\\en.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\images\\gym-logo.jpg",
+      "PackagePath": "staticwebassets\\images\\gym-logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\images\\pl.png",
+      "PackagePath": "staticwebassets\\images\\pl.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\cldr-core\\supplemental\\calendarData.json",
+      "PackagePath": "staticwebassets\\lib\\cldr-core\\supplemental\\calendarData.json"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\cldr-core\\supplemental\\currencyData.json",
+      "PackagePath": "staticwebassets\\lib\\cldr-core\\supplemental\\currencyData.json"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\cldr-core\\supplemental\\likelySubtags.json",
+      "PackagePath": "staticwebassets\\lib\\cldr-core\\supplemental\\likelySubtags.json"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\cldr-core\\supplemental\\numberingSystems.json",
+      "PackagePath": "staticwebassets\\lib\\cldr-core\\supplemental\\numberingSystems.json"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\cldr-core\\supplemental\\ordinals.json",
+      "PackagePath": "staticwebassets\\lib\\cldr-core\\supplemental\\ordinals.json"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\cldr-core\\supplemental\\plurals.json",
+      "PackagePath": "staticwebassets\\lib\\cldr-core\\supplemental\\plurals.json"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\cldr-core\\supplemental\\timeData.json",
+      "PackagePath": "staticwebassets\\lib\\cldr-core\\supplemental\\timeData.json"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\cldr-core\\supplemental\\weekData.json",
+      "PackagePath": "staticwebassets\\lib\\cldr-core\\supplemental\\weekData.json"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\cldr-dates-modern\\main\\en\\ca-gregorian.json",
+      "PackagePath": "staticwebassets\\lib\\cldr-dates-modern\\main\\en\\ca-gregorian.json"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\cldr-dates-modern\\main\\en\\timeZoneNames.json",
+      "PackagePath": "staticwebassets\\lib\\cldr-dates-modern\\main\\en\\timeZoneNames.json"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\cldr-dates-modern\\main\\pl\\ca-gregorian.json",
+      "PackagePath": "staticwebassets\\lib\\cldr-dates-modern\\main\\pl\\ca-gregorian.json"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\cldr-dates-modern\\main\\pl\\timeZoneNames.json",
+      "PackagePath": "staticwebassets\\lib\\cldr-dates-modern\\main\\pl\\timeZoneNames.json"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\cldr-numbers-modern\\main\\en\\currencies.json",
+      "PackagePath": "staticwebassets\\lib\\cldr-numbers-modern\\main\\en\\currencies.json"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\cldr-numbers-modern\\main\\en\\numbers.json",
+      "PackagePath": "staticwebassets\\lib\\cldr-numbers-modern\\main\\en\\numbers.json"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\cldr-numbers-modern\\main\\pl\\currencies.json",
+      "PackagePath": "staticwebassets\\lib\\cldr-numbers-modern\\main\\pl\\currencies.json"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\cldr-numbers-modern\\main\\pl\\numbers.json",
+      "PackagePath": "staticwebassets\\lib\\cldr-numbers-modern\\main\\pl\\numbers.json"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\cldrjs\\dist\\cldr.js",
+      "PackagePath": "staticwebassets\\lib\\cldrjs\\dist\\cldr.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\cldrjs\\dist\\cldr\\event.js",
+      "PackagePath": "staticwebassets\\lib\\cldrjs\\dist\\cldr\\event.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\cldrjs\\dist\\cldr\\supplemental.js",
+      "PackagePath": "staticwebassets\\lib\\cldrjs\\dist\\cldr\\supplemental.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\globalize\\globalize.js",
+      "PackagePath": "staticwebassets\\lib\\globalize\\globalize.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\globalize\\globalize\\date.js",
+      "PackagePath": "staticwebassets\\lib\\globalize\\globalize\\date.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\globalize\\globalize\\number.js",
+      "PackagePath": "staticwebassets\\lib\\globalize\\globalize\\number.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\jquery-validation-globalize-fix\\jquery.validate.globalize.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-globalize-fix\\jquery.validate.globalize.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\jquery-validation-globalize\\jquery.validate.globalize.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-globalize\\jquery.validate.globalize.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\jquery.cookie\\jquery.cookie.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery.cookie\\jquery.cookie.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\toastr.js\\toastr.min.css",
+      "PackagePath": "staticwebassets\\lib\\toastr.js\\toastr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\Training_App\\GymManager\\GymManager.UI\\wwwroot\\lib\\toastr.js\\toastr.min.js",
+      "PackagePath": "staticwebassets\\lib\\toastr.js\\toastr.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.GymManager.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.GymManager.UI.props",
+      "PackagePath": "build\\GymManager.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.GymManager.UI.props",
+      "PackagePath": "buildMultiTargeting\\GymManager.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.GymManager.UI.props",
+      "PackagePath": "buildTransitive\\GymManager.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

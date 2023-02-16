@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Domain\bin\Release\net6.0\GymManager.Domain.deps.json
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Domain\bin\Release\net6.0\GymManager.Domain.dll
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Domain\bin\Release\net6.0\GymManager.Domain.pdb
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Domain\obj\Release\net6.0\GymManager.Domain.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Domain\obj\Release\net6.0\GymManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Domain\obj\Release\net6.0\GymManager.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Domain\obj\Release\net6.0\GymManager.Domain.AssemblyInfo.cs
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Domain\obj\Release\net6.0\GymManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Domain\obj\Release\net6.0\GymManager.Domain.dll
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Domain\obj\Release\net6.0\refint\GymManager.Domain.dll
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Domain\obj\Release\net6.0\GymManager.Domain.pdb
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Domain\obj\Release\net6.0\ref\GymManager.Domain.dll

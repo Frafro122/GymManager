@@ -1,0 +1,30 @@
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Application\bin\Debug\net6.0\GymManager.Application.deps.json
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Application\bin\Debug\net6.0\GymManager.Application.dll
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Application\bin\Debug\net6.0\GymManager.Application.pdb
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Application\bin\Debug\net6.0\GymManager.Domain.dll
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Application\bin\Debug\net6.0\GymManager.Domain.pdb
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Application\obj\Debug\net6.0\GymManager.Application.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Application\obj\Debug\net6.0\GymManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Application\obj\Debug\net6.0\GymManager.Application.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Application\obj\Debug\net6.0\GymManager.Application.AssemblyInfo.cs
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Application\obj\Debug\net6.0\GymManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Application\obj\Debug\net6.0\GymManager.Application.csproj.CopyComplete
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Application\obj\Debug\net6.0\GymManager.Application.dll
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Application\obj\Debug\net6.0\refint\GymManager.Application.dll
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Application\obj\Debug\net6.0\GymManager.Application.pdb
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Application\obj\Debug\net6.0\ref\GymManager.Application.dll
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Application\bin\Debug\net6.0\GymManager.Application.deps.json
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Application\bin\Debug\net6.0\GymManager.Application.dll
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Application\bin\Debug\net6.0\GymManager.Application.pdb
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Application\bin\Debug\net6.0\GymManager.Domain.dll
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Application\bin\Debug\net6.0\GymManager.Domain.pdb
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Application\obj\Debug\net6.0\GymManager.Application.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Application\obj\Debug\net6.0\GymManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Application\obj\Debug\net6.0\GymManager.Application.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Application\obj\Debug\net6.0\GymManager.Application.AssemblyInfo.cs
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Application\obj\Debug\net6.0\GymManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Application\obj\Debug\net6.0\GymManager.Application.csproj.CopyComplete
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Application\obj\Debug\net6.0\GymManager.Application.dll
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Application\obj\Debug\net6.0\refint\GymManager.Application.dll
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Application\obj\Debug\net6.0\GymManager.Application.pdb
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Application\obj\Debug\net6.0\ref\GymManager.Application.dll

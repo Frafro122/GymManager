@@ -1,0 +1,34 @@
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Infrastructure\bin\Debug\net6.0\GymManager.Infrastructure.deps.json
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Infrastructure\bin\Debug\net6.0\GymManager.Infrastructure.dll
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Infrastructure\bin\Debug\net6.0\GymManager.Infrastructure.pdb
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Infrastructure\bin\Debug\net6.0\GymManager.Application.dll
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Infrastructure\bin\Debug\net6.0\GymManager.Domain.dll
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Infrastructure\bin\Debug\net6.0\GymManager.Application.pdb
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Infrastructure\bin\Debug\net6.0\GymManager.Domain.pdb
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Infrastructure\obj\Debug\net6.0\GymManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Infrastructure\obj\Debug\net6.0\GymManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Infrastructure\obj\Debug\net6.0\GymManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Infrastructure\obj\Debug\net6.0\GymManager.Infrastructure.AssemblyInfo.cs
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Infrastructure\obj\Debug\net6.0\GymManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Infrastructure\obj\Debug\net6.0\GymManager.Infrastructure.csproj.CopyComplete
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Infrastructure\obj\Debug\net6.0\GymManager.Infrastructure.dll
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Infrastructure\obj\Debug\net6.0\refint\GymManager.Infrastructure.dll
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Infrastructure\obj\Debug\net6.0\GymManager.Infrastructure.pdb
+C:\Users\HP\Desktop\Training App\GymManager\GymManager.Infrastructure\obj\Debug\net6.0\ref\GymManager.Infrastructure.dll
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Infrastructure\bin\Debug\net6.0\GymManager.Infrastructure.deps.json
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Infrastructure\bin\Debug\net6.0\GymManager.Infrastructure.dll
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Infrastructure\bin\Debug\net6.0\GymManager.Infrastructure.pdb
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Infrastructure\bin\Debug\net6.0\GymManager.Application.dll
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Infrastructure\bin\Debug\net6.0\GymManager.Domain.dll
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Infrastructure\bin\Debug\net6.0\GymManager.Application.pdb
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Infrastructure\bin\Debug\net6.0\GymManager.Domain.pdb
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Infrastructure\obj\Debug\net6.0\GymManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Infrastructure\obj\Debug\net6.0\GymManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Infrastructure\obj\Debug\net6.0\GymManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Infrastructure\obj\Debug\net6.0\GymManager.Infrastructure.AssemblyInfo.cs
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Infrastructure\obj\Debug\net6.0\GymManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Infrastructure\obj\Debug\net6.0\GymManager.Infrastructure.csproj.CopyComplete
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Infrastructure\obj\Debug\net6.0\GymManager.Infrastructure.dll
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Infrastructure\obj\Debug\net6.0\refint\GymManager.Infrastructure.dll
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Infrastructure\obj\Debug\net6.0\GymManager.Infrastructure.pdb
+C:\Users\HP\Desktop\Training_App\GymManager\GymManager.Infrastructure\obj\Debug\net6.0\ref\GymManager.Infrastructure.dll

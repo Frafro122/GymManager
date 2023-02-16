@@ -1,0 +1,75 @@
+2023-01-09 13:23:13.8920 WARN Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2023-01-09 13:23:14.3067 WARN No store type was specified for the decimal property 'Salary' on entity type 'Employee'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-01-09 13:23:14.3215 WARN No store type was specified for the decimal property 'Value' on entity type 'Invoice'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-01-09 13:23:14.3215 WARN No store type was specified for the decimal property 'Price' on entity type 'Ticket'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-01-09 13:23:14.3215 WARN No store type was specified for the decimal property 'Price' on entity type 'TicketType'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-01-09 13:23:14.7054 INFO Entity Framework Core 6.0.12 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.12' with options: SensitiveDataLoggingEnabled 
+2023-01-09 13:23:17.4819 INFO Executed DbCommand (135ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[Description], [s].[Key], [s].[Order], [s].[SettingsId], [s].[Type], [s].[Value]
+FROM [SettingsPositions] AS [s]
+2023-01-09 13:23:17.5686 INFO DEVELOPMENT MODE!!!
+2023-01-09 13:23:18.2052 INFO Now listening on: https://localhost:7182
+2023-01-09 13:23:18.2052 INFO Now listening on: http://localhost:5182
+2023-01-09 13:23:18.2052 INFO Application started. Press Ctrl+C to shut down.
+2023-01-09 13:23:18.2052 INFO Hosting environment: Development
+2023-01-09 13:23:18.2052 INFO Content root path: C:\Users\HP\Desktop\Training_App\GymManager\GymManager.UI\
+2023-01-09 13:43:52.1474 WARN Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2023-01-09 13:43:52.3472 WARN No store type was specified for the decimal property 'Salary' on entity type 'Employee'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-01-09 13:43:52.3472 WARN No store type was specified for the decimal property 'Value' on entity type 'Invoice'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-01-09 13:43:52.3472 WARN No store type was specified for the decimal property 'Price' on entity type 'Ticket'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-01-09 13:43:52.3472 WARN No store type was specified for the decimal property 'Price' on entity type 'TicketType'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-01-09 13:43:52.5676 INFO Entity Framework Core 6.0.12 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.12' with options: SensitiveDataLoggingEnabled 
+2023-01-09 13:43:54.4350 INFO Executed DbCommand (66ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[Description], [s].[Key], [s].[Order], [s].[SettingsId], [s].[Type], [s].[Value]
+FROM [SettingsPositions] AS [s]
+2023-01-09 13:43:54.5137 INFO DEVELOPMENT MODE!!!
+2023-01-09 13:43:55.0243 INFO Now listening on: https://localhost:7182
+2023-01-09 13:43:55.0243 INFO Now listening on: http://localhost:5182
+2023-01-09 13:43:55.0243 INFO Application started. Press Ctrl+C to shut down.
+2023-01-09 13:43:55.0243 INFO Hosting environment: Development
+2023-01-09 13:43:55.0243 INFO Content root path: C:\Users\HP\Desktop\Training_App\GymManager\GymManager.UI\
+2023-01-09 13:56:47.1917 WARN Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2023-01-09 13:56:47.3988 WARN No store type was specified for the decimal property 'Salary' on entity type 'Employee'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-01-09 13:56:47.3988 WARN No store type was specified for the decimal property 'Value' on entity type 'Invoice'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-01-09 13:56:47.3988 WARN No store type was specified for the decimal property 'Price' on entity type 'Ticket'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-01-09 13:56:47.3988 WARN No store type was specified for the decimal property 'Price' on entity type 'TicketType'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-01-09 13:56:47.6155 INFO Entity Framework Core 6.0.12 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.12' with options: SensitiveDataLoggingEnabled 
+2023-01-09 13:56:49.5264 INFO Executed DbCommand (61ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[Description], [s].[Key], [s].[Order], [s].[SettingsId], [s].[Type], [s].[Value]
+FROM [SettingsPositions] AS [s]
+2023-01-09 13:56:49.6117 INFO DEVELOPMENT MODE!!!
+2023-01-09 13:56:50.1435 INFO Now listening on: https://localhost:7182
+2023-01-09 13:56:50.1435 INFO Now listening on: http://localhost:5182
+2023-01-09 13:56:50.1435 INFO Application started. Press Ctrl+C to shut down.
+2023-01-09 13:56:50.1435 INFO Hosting environment: Development
+2023-01-09 13:56:50.1435 INFO Content root path: C:\Users\HP\Desktop\Training_App\GymManager\GymManager.UI\
+2023-01-09 13:59:24.1648 WARN Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2023-01-09 13:59:24.3797 WARN No store type was specified for the decimal property 'Salary' on entity type 'Employee'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-01-09 13:59:24.3797 WARN No store type was specified for the decimal property 'Value' on entity type 'Invoice'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-01-09 13:59:24.3797 WARN No store type was specified for the decimal property 'Price' on entity type 'Ticket'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-01-09 13:59:24.3797 WARN No store type was specified for the decimal property 'Price' on entity type 'TicketType'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-01-09 13:59:24.6088 INFO Entity Framework Core 6.0.12 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.12' with options: SensitiveDataLoggingEnabled 
+2023-01-09 13:59:25.6051 INFO Executed DbCommand (71ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[Description], [s].[Key], [s].[Order], [s].[SettingsId], [s].[Type], [s].[Value]
+FROM [SettingsPositions] AS [s]
+2023-01-09 13:59:25.6690 INFO DEVELOPMENT MODE!!!
+2023-01-09 13:59:26.1876 INFO Now listening on: https://localhost:7182
+2023-01-09 13:59:26.1876 INFO Now listening on: http://localhost:5182
+2023-01-09 13:59:26.1876 INFO Application started. Press Ctrl+C to shut down.
+2023-01-09 13:59:26.1896 INFO Hosting environment: Development
+2023-01-09 13:59:26.1896 INFO Content root path: C:\Users\HP\Desktop\Training_App\GymManager\GymManager.UI\
+2023-01-09 14:02:51.2542 WARN Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2023-01-09 14:02:51.4769 WARN No store type was specified for the decimal property 'Salary' on entity type 'Employee'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-01-09 14:02:51.4769 WARN No store type was specified for the decimal property 'Value' on entity type 'Invoice'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-01-09 14:02:51.4769 WARN No store type was specified for the decimal property 'Price' on entity type 'Ticket'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-01-09 14:02:51.4769 WARN No store type was specified for the decimal property 'Price' on entity type 'TicketType'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-01-09 14:02:51.7638 INFO Entity Framework Core 6.0.12 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.12' with options: SensitiveDataLoggingEnabled 
+2023-01-09 14:02:52.8814 INFO Executed DbCommand (76ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [s].[Id], [s].[Description], [s].[Key], [s].[Order], [s].[SettingsId], [s].[Type], [s].[Value]
+FROM [SettingsPositions] AS [s]
+2023-01-09 14:02:52.9480 INFO DEVELOPMENT MODE!!!
+2023-01-09 14:02:53.4547 INFO Now listening on: https://localhost:7182
+2023-01-09 14:02:53.4547 INFO Now listening on: http://localhost:5182
+2023-01-09 14:02:53.4547 INFO Application started. Press Ctrl+C to shut down.
+2023-01-09 14:02:53.4547 INFO Hosting environment: Development
+2023-01-09 14:02:53.4547 INFO Content root path: C:\Users\HP\Desktop\Training_App\GymManager\GymManager.UI\
